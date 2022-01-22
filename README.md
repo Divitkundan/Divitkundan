@@ -1,9 +1,14 @@
-- 👋 Hi, I’m @Divitkundan
-- 👀 I’m interested in Projetcs ...
-- 🌱 I’m currently learning Java-Script, Pyhton, C++ And Visual-Studio...
-- 💞️ I’m looking to collaborate on projects By Microsoft ...
-- 📫 How to reach me  - Divit.Kundan2@gmail.com...
-
+Hello Everyone, 
+I Am Divit Kundan. A Streamer,
+Videos Edited & Recorded By Me.
+Please Watch My Gameplay Videos.
+Loves To Play Minecraft, Roblox, CS:GO Etc.
+_______________________________________________
+Please Follow All My Pages And Like, Share :
+╔═╦╗╔╦╗╔═╦═╦╦╦╦╗╔═╗
+║╚╣║║║╚╣╚╣╔╣╔╣║╚╣═╣
+╠╗║╚╝║║╠╗║╚╣║║║║║═╣
+╚═╩══╩═╩═╩═╩╝╚╩═╩═╝
 <!---
 Divitkundan/Divitkundan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
